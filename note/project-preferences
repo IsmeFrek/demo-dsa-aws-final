@@ -1,0 +1,19 @@
+ecommerce-demo/
+├── client/                # React frontend
+│   ├── public/
+│   └── src/
+│       ├── components/
+│       │   ├── Categories.js
+│       │   ├── Products.js
+│       │   ├── Customers.js
+│       │   ├── Orders.js
+│       │   └── OrderItems.js
+│       ├── App.js
+│       ├── App.css
+│       └── index.js
+├── server/                # Node.js backend
+│   ├── db.js
+│   ├── index.js
+│   └── .env
+├── package.json
+└── README.md
